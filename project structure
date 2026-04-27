@@ -1,0 +1,13 @@
+Company-FAQ-Chatbot/
+│
+├── app.py
+├── faqs.json
+├── requirements.txt
+├── README.md
+│
+├── templates/
+│   └── index.html
+│
+└── static/
+    ├── style.css
+    └── script.js

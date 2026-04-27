@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What are your working hours?",
+    "answer": "Our working hours are Monday to Friday, 9:00 AM to 6:00 PM."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can contact support by emailing support@company.com."
+  },
+  {
+    "question": "Where is the company located?",
+    "answer": "Our company is located in India."
+  },
+  {
+    "question": "How can I apply for internship?",
+    "answer": "You can apply for an internship through the official company career page or HR email."
+  },
+  {
+    "question": "Will I get a certificate?",
+    "answer": "Yes, eligible interns will receive a certificate after successful completion of the internship."
+  }
+]
